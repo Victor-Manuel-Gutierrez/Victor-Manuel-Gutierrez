@@ -4,7 +4,7 @@
 - 🌱 Estudando Javascript.
 - 😄 Pronouns: ele/dele.
 
-
+<div>
 <a href="https://github.com/Victor-Manuel-Gutierrez">
   <img height="180em" img width="48%" src="https://github-readme-stats.vercel.app/api?username=Victor-Manuel-Gutierrez&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Manuel-Gutierrez&layout=compact&langs_count=7&theme=omni"/>
@@ -22,3 +22,4 @@
 <div> 
   <a href = "mailto:victorgutierrezys@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+ 
