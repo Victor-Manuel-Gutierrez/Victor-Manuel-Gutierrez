@@ -15,7 +15,9 @@
   </div>
 
   ##
+  
 <div>
   <a href = "mailto:victorgutierrezys@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-   ![Snake animation](https://github.com/Victor-Manuel-Gutierrez/Victor-Manuel-Gutierrez/blob/output/github-contribution-grid-snake.svg)
+ </div>
+  
+  ![Snake animation](https://github.com/Victor-Manuel-Gutierrez/Victor-Manuel-Gutierrez/blob/output/github-contribution-grid-snake.svg)
