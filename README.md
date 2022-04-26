@@ -9,9 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Manuel-Gutierrez&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
  <div style="display: inline_block"><br>
-    <img align="center" alt="Victor-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Victor-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="aigis-gif" width="130" height="140" src="https://user-images.githubusercontent.com/103762797/164719353-94a08745-abac-4e27-b803-889422b9c8a7.gif"/>
+    <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
   </div>
 
   ##
